@@ -1,4 +1,4 @@
 # A voting app in node.js
 
-##This app is made with Node.js, MongoDB and Express.js using Jade as the templating engine. 
+### A voting app with two options (yes or no, this or that, etc.) made with: Node.js/Express.js with Jade as the templating engine, and MongoDB.
 
